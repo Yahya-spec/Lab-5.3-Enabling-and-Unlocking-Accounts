@@ -27,14 +27,14 @@ In this home lab, I simulate a locked-out user account after multiple failed log
 
   <li>Configure Group Policy to lock out an account after 5 failed login attempts:</li>
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/f77227a0-5f02-4711-907f-911a9937ecc4" alt="Group Policy Configuration"/>
+    <img src="https://github.com/user-attachments/assets/ad975169-aae8-49eb-ba33-ddb9c8d7c914" alt="Group Policy Configuration"/>
   </p>
 
   <li>Attempt to log in 6 times with an incorrect password. The account will be locked out.</li>
 
   <li>Unlock the account and reset the password. Attempt to log in again.</li>
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/31034cff-fd89-4bdc-b5b7-19204a748e60" alt="Unlock Account Screenshot"/>
+    <img src="https://github.com/user-attachments/assets/00dcce29-8743-4a3a-a97a-cd20eb85253d" alt="Unlock Account Screenshot"/>
   </p>
 </ol>
 
@@ -44,7 +44,7 @@ In this home lab, I simulate a locked-out user account after multiple failed log
   <li>Attempt to log in with the disabled account, observe the error message.</li>
   <li>Re-enable the account and attempt to log in again.</li>
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/d22ca58e-e019-4199-8de8-6a279f01b94e" alt="Disable and Re-enable Account"/>
+    <img src="https://github.com/user-attachments/assets/4d0a7f90-21c4-44a1-adf9-9a59e4bc4831" alt="Disable and Re-enable Account"/>
   </p>
 </ol>
 
@@ -53,7 +53,7 @@ In this home lab, I simulate a locked-out user account after multiple failed log
   <li>Observe the logs in the Domain Controller.</li>
   <li>Observe the logs on the client machine.</li>
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/12f9f634-8afd-439f-9b83-d34dca61dda4" alt="Log Observation Screenshot"/>
+    <img src="https://github.com/user-attachments/assets/9ced78f2-7c3a-4b43-964d-411005c87462" alt="Log Observation Screenshot"/>
   </p>
 </ol>
 
